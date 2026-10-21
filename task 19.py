@@ -1,5 +1,0 @@
-n = int(input())
-m = int(input())
-k = m % (n + 1)
-d = (m - k) // (n + 1)
-print(d)
